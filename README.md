@@ -1,6 +1,6 @@
 # combination-search
 
-This is a genetic algorithim application to a simple problem of finding a combination of 10 digits, it follows the general iteration/execution structure of davpal/eight-queens genetic algorithm that you can find here: https://github.com/davpal/eight-queens. 
+This is a genetic algorithim application to a simple problem of finding a combination of 10 digits, it follows the general iteration/execution structure of davpal's eight queens genetic algorithm solution that you can find here: https://github.com/davpal/eight-queens. 
 
 The 100% original methods in this project are: fitness and crossover
 
