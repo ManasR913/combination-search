@@ -10,4 +10,4 @@ Modifications to alter the behavior and execution of the algorithm can be made w
 
 Created for possible use in my IB Extended Essay on February 7th, 2022
 
-Manas Vaidya Rajendran
+Manas Rajendran
